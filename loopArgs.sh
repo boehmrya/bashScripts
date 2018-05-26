@@ -5,4 +5,5 @@ do
    echo $TOKEN
 done
 
-echo $$
+echo "process id: " $$
+echo "process number of last background command: " $?

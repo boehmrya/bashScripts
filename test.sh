@@ -1,9 +1,6 @@
 #!/bin/bash
 
-# Author : Zara Ali
-# Copyright (c) Tutorialspoint.com
-# Script follows here:
+a=3
+b=2
 
-
-pwd
-ls
+[ $a -eq $b ]
